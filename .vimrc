@@ -6,5 +6,5 @@ set showmatch
 set mat=2
 syntax enable
 colorscheme desert
-set background dark
+
 
